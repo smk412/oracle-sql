@@ -122,3 +122,5 @@ WHERE (HEIGHT > 170
 OR WEIGHT > 60)
 AND GRADE = 4; -- 충족조건 2개 (1. A AND (B OR C))
 
+-
+
